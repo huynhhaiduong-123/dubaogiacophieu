@@ -1,6 +1,3 @@
-# 1. CÀI ĐẶT THƯ VIỆN (Chạy lệnh này nếu chưa cài)
-# !pip install yfinance pandas numpy matplotlib scikit-learn tensorflow
-
 import random
 import numpy as np
 import pandas as pd
