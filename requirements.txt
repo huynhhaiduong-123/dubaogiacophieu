@@ -1,0 +1,14 @@
+# Thư viện tải và xử lý dữ liệu
+yfinance>=0.2.36
+pandas>=2.0.0
+numpy>=1.23.5
+
+# Thư viện Học máy & Mô hình Deep Learning
+scikit-learn>=1.2.0
+tensorflow>=2.12.0
+
+# Thư viện Trực quan hóa dữ liệu
+matplotlib>=3.7.0
+
+# Thư viện Giao diện (Streamlit App)
+streamlit>=1.28.0
